@@ -7,7 +7,7 @@ def doud(s):
     for alien in s + '\n':
         sys.stdout.write(alien)
         sys.stdout.flush()
-        time.sleep(0.0001)
+        time.sleep(0.001)
 
 a="""
 \a\a\33[1;31m
