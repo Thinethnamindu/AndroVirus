@@ -1,5 +1,5 @@
 # AndroVirus
-Send virus through with AndroVirus A tool that have collection of viruses for Android
+Send virus through link with AndroVirus A tool that have collection of viruses for Android
 
 
 # Installation
