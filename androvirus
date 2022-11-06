@@ -7,7 +7,7 @@ def doud(s):
     for alien in s + '\n':
         sys.stdout.write(alien)
         sys.stdout.flush()
-        time.sleep(0.01)
+        time.sleep(0.0001)
 
 a="""
 \a\a\33[1;31m
@@ -157,7 +157,7 @@ def alien4you():
     anon = [a,b,c,d]
     m = "".join(random.sample(anon,1))
     os.system("clear")
-    print(m)
+    daud(m)
 alien4you()
 
 k = input("\033[1;32m[*]\033[1;31m Choose\033[1;32m :\033[1;36m")
