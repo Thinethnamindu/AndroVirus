@@ -180,4 +180,4 @@ elif k == '2':
 else:
   print("\a\n\033[1;34m[x] \033[1;31mERROR:\033[0;00m sorry wrong input...")
   time.sleep(2)
-  androviruse
+  androvirus
