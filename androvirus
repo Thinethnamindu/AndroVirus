@@ -174,7 +174,7 @@ elif k == '3':
   os.system("xdg-open https://github.com/Anon4You")
 elif k == '2':
   print(z)
-  print("WhatsApp crash is not working now I will update it soon \nsubscribe my youtube channel for upcoming update")
+  print("\33[0mWhatsApp crash is not working now I will update it soon subscribe my youtube channel for upcoming update")
   time.sleep(4)
   os.system("xdg-open https://youtube.com/@alienkrishn3761")
   
