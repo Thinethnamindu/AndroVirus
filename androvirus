@@ -175,6 +175,6 @@ elif k == '3':
 elif k == '2':
   print(z)
   print("WhatsApp crash is not working now I will update it soon \nsubscribe my youtube channel for upcoming update")
-  time.sleep(2)
+  time.sleep(4)
   os.system("xdg-open https://youtube.com/@alienkrishn3761")
   
